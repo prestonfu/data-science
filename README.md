@@ -1,6 +1,16 @@
 # Data Science Experiments
 
-Small projects from the [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/). There's a mix of data analysis and introductory machine learning. Libraries include `numpy`, `pandas`, `matplotlib`, `seaborn`, `plotly`, `cufflinks`, `scikit-learn`.
+A compilation of many small projects. For now, they are primarily from the [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) with some additional exploration.
+
+Libraries include:
+* `numpy`
+* `pandas`
+* `matplotlib`
+* `seaborn`
+* `plotly`
+* `cufflinks`
+* `scikit-learn`
+* `tensorflow` and `keras`
 
 Topics include:
 
